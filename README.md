@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asfaan Hussainhttps://github.com/mys3lfasfaan</h1>
+<h1 align="center">Hi 👋, I'm Asfaan Hussain</h1>
 <h3 align="center">A Data Enthusiast from India</h3>
 
 - 🌱 I’m currently learning **tools used in Data Engineering (AWS Glue, Snowflake, Kafka, etc)**
